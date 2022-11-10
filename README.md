@@ -32,7 +32,7 @@ THEN I am able to successfully create, update, and delete data in my database <b
 https://watch.screencastify.com/v/Wo3TvKk251rvAzruEnWC
 
 ## Contribution
-[Zuleika Tesei] (https://github.com/zuetesei)
+[Zuleika Tesei](#https://github.com/zuetesei)
 With assistance from Trilogy Tutor Dan Sires. 
 
 ## Licenses
