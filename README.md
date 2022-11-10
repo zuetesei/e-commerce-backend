@@ -32,10 +32,10 @@ THEN I am able to successfully create, update, and delete data in my database <b
 https://watch.screencastify.com/v/Wo3TvKk251rvAzruEnWC
 
 ## Contribution
-[Zuleika Tesei](#https://github.com/zuetesei)
+Zuleika Tesei (https://github.com/zuetesei) <br>
 With assistance from Trilogy Tutor Dan Sires. 
 
-## Licenses
+## License
 This project was created by Zuleika Tesei as part of the curriculum for the UC Davis Coding Boot Camp and Trilogy Education Services.
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
